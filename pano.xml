@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama hideabout="1" id="" appversion="5.2.3" apprev="15990">
+  <input levelbias="0.400" leveltileurl="tiles_RochesterHighSchool2014_final_equi/c%c_l%r_%y_%x.jpg" levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" width="3606" height="3606" leveltilesize="512">
+    <level preload="0" predecode="0" width="3606" height="3606"/>
+    <level preload="0" predecode="0" width="1803" height="1803"/>
+    <level preload="0" predecode="0" width="901" height="901"/>
+    <level preload="1" predecode="1" width="450" height="450"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="-23" fovmode="0">
+    <start tilt="-31.5" pan="130" projection="4" fov="70"/>
+    <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+    <min tilt="-90" pan="0" fov="30"/>
+    <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="70" fovstereographic="270"/>
+  </view>
+  <userdata title="Rochester High School and Junior High" description="" latitude="39.75342329249294" customnodeid="" info="images/Readout_RochesterHighSchool.png" longitude="-89.53870927116392" copyright="Prairie SkyCam" tags="" author="Prairie SkyCam" datetime="11/04/2014" comment="images/InfoBox_Rochester2014.png" source="338"/>
+  <hotspots wordwrap="1" width="180" height="0">
+    <label enabled="1" textalpha="1" wordwrap="1" borderalpha="1" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" border="1" width="180" height="0" background="1"/>
+    <polystyle borderalpha="1" backgroundcolor="0xff9d00" backgroundalpha="0.2509803921568627" mode="2" bordercolor="0xff9d00" handcursor="0"/>
+    <hotspot title="" description="" tilt="-10.69" target="" skinid="hs_ToSpringfield" url="" id="Point01" pan="87.68"/>
+    <hotspot title="" description="" tilt="-17.42" target="" skinid="hs_Route29" url="" id="Point02" pan="130.99"/>
+    <hotspot title="" description="" tilt="-4.34" target="" skinid="hs_ToTaylorville" url="" id="Point03" pan="-175.41"/>
+    <hotspot title="" description="" tilt="-21.92" target="" skinid="hs_NorthWalnutStreet" url="" id="Point04" pan="-143.18"/>
+    <polyhotspot title="Rocket Booster Stadium" description="" target="" url="" id="Poly01">
+      <vertex tilt="-60.5296" pan="-10.137"/>
+      <vertex tilt="-49.3653" pan="-73.0351"/>
+      <vertex tilt="-44.832" pan="-75.0836"/>
+      <vertex tilt="-42.0386" pan="-77.25"/>
+      <vertex tilt="-25.4787" pan="-51.2467"/>
+      <vertex tilt="-17.6393" pan="-38.0843"/>
+      <vertex tilt="-16.8931" pan="-30.5537"/>
+      <vertex tilt="-17.2059" pan="-25.2068"/>
+      <vertex tilt="-18.0826" pan="-20.4701"/>
+      <vertex tilt="-23.2332" pan="-18.6888"/>
+      <vertex tilt="-22.1124" pan="-15.4303"/>
+      <vertex tilt="-22.7929" pan="-14.9241"/>
+      <vertex tilt="-22.7066" pan="-13.3652"/>
+      <vertex tilt="-24.2395" pan="-12.6603"/>
+      <vertex tilt="-25.1699" pan="-12.993"/>
+      <vertex tilt="-25.4285" pan="-14.114"/>
+      <vertex tilt="-27.7096" pan="-13.1033"/>
+      <vertex tilt="-30.2328" pan="-17.3413"/>
+    </polyhotspot>
+    <polyhotspot title="The Launching Pad" description="" target="" url="" id="Poly02">
+      <vertex tilt="-31.4699" pan="-13.5252"/>
+      <vertex tilt="-48.39" pan="-8.47952"/>
+      <vertex tilt="-46.2043" pan="30.3918"/>
+      <vertex tilt="-33.2845" pan="44.2263"/>
+      <vertex tilt="-31.4298" pan="43.6427"/>
+      <vertex tilt="-29.8798" pan="41.9523"/>
+      <vertex tilt="-29.0971" pan="39.2032"/>
+      <vertex tilt="-22.1546" pan="14.8108"/>
+      <vertex tilt="-25.4827" pan="-9.63961"/>
+    </polyhotspot>
+    <polyhotspot title="Softball Field" description="" target="" url="" id="Poly03">
+      <vertex tilt="-19.804" pan="50.061"/>
+      <vertex tilt="-19.2826" pan="44.0456"/>
+      <vertex tilt="-18.9431" pan="36.3516"/>
+      <vertex tilt="-19.9181" pan="30.3075"/>
+      <vertex tilt="-21.6822" pan="24.3317"/>
+      <vertex tilt="-23.37" pan="21.5208"/>
+      <vertex tilt="-27.2302" pan="33.8721"/>
+      <vertex tilt="-27.9417" pan="37.6934"/>
+      <vertex tilt="-28.6731" pan="41.6631"/>
+      <vertex tilt="-29.1727" pan="44.6676"/>
+      <vertex tilt="-22.3552" pan="49.7252"/>
+    </polyhotspot>
+    <polyhotspot title="The RAC" description="" target="" url="" id="Poly04">
+      <vertex tilt="-21.301" pan="67.29"/>
+      <vertex tilt="-22.999" pan="76.0767"/>
+      <vertex tilt="-26.1026" pan="77.6777"/>
+      <vertex tilt="-26.071" pan="78.4916"/>
+      <vertex tilt="-26.8526" pan="79.3546"/>
+      <vertex tilt="-28.0924" pan="80.2672"/>
+      <vertex tilt="-28.9728" pan="80.6994"/>
+      <vertex tilt="-30.1023" pan="81.0384"/>
+      <vertex tilt="-30.8639" pan="81.056"/>
+      <vertex tilt="-31.6403" pan="80.8442"/>
+      <vertex tilt="-35.5201" pan="83.094"/>
+      <vertex tilt="-35.9197" pan="82.2188"/>
+      <vertex tilt="-38.6159" pan="81.5766"/>
+      <vertex tilt="-39.4289" pan="67.0959"/>
+      <vertex tilt="-38.8431" pan="53.3354"/>
+      <vertex tilt="-35.833" pan="53.277"/>
+      <vertex tilt="-35.7725" pan="52.3888"/>
+      <vertex tilt="-30.7733" pan="54.5736"/>
+      <vertex tilt="-30.7933" pan="53.1499"/>
+      <vertex tilt="-26.2954" pan="55.4388"/>
+      <vertex tilt="-25.9737" pan="57.0123"/>
+      <vertex tilt="-22.9858" pan="58.2453"/>
+    </polyhotspot>
+    <polyhotspot title="Auxiliary High School Gymnasium" description="" target="" url="" id="Poly05">
+      <vertex tilt="-21.5762" pan="92.8864"/>
+      <vertex tilt="-19.8094" pan="101.15"/>
+      <vertex tilt="-20.8552" pan="104.264"/>
+      <vertex tilt="-22.562" pan="107.259"/>
+      <vertex tilt="-23.5325" pan="106.967"/>
+      <vertex tilt="-24.202" pan="105.958"/>
+      <vertex tilt="-25.9804" pan="99.2524"/>
+      <vertex tilt="-27.3727" pan="99.4057"/>
+      <vertex tilt="-27.6929" pan="98.1325"/>
+      <vertex tilt="-23.9139" pan="92.8559"/>
+    </polyhotspot>
+    <polyhotspot title="District Office" description="" target="" url="" id="Poly06">
+      <vertex tilt="-18.8879" pan="87.8778"/>
+      <vertex tilt="-18.1329" pan="94.0426"/>
+      <vertex tilt="-19.3715" pan="96.02"/>
+      <vertex tilt="-20.4253" pan="95.562"/>
+      <vertex tilt="-21.3909" pan="87.1688"/>
+      <vertex tilt="-20.6386" pan="85.6668"/>
+      <vertex tilt="-19.2516" pan="85.2068"/>
+    </polyhotspot>
+    <polyhotspot title="High School Main Entry" description="" target="" url="" id="Poly07">
+      <vertex tilt="-21.7443" pan="114.775"/>
+      <vertex tilt="-22.9369" pan="115.487"/>
+      <vertex tilt="-23.8412" pan="115.504"/>
+      <vertex tilt="-24.7216" pan="117.478"/>
+      <vertex tilt="-27.0975" pan="112.943"/>
+      <vertex tilt="-24.1814" pan="106.165"/>
+      <vertex tilt="-23.2554" pan="107.158"/>
+      <vertex tilt="-22.1357" pan="110.086"/>
+      <vertex tilt="-22.9056" pan="112.054"/>
+      <vertex tilt="-21.8248" pan="113.703"/>
+      <vertex tilt="-21.8248" pan="113.703"/>
+    </polyhotspot>
+    <polyhotspot title="Student Services" description="" target="" url="" id="Poly08">
+      <vertex tilt="-23.6661" pan="134.172"/>
+      <vertex tilt="-26.3663" pan="131.386"/>
+      <vertex tilt="-27.8678" pan="131.153"/>
+      <vertex tilt="-30.562" pan="154.626"/>
+      <vertex tilt="-28.8293" pan="154.546"/>
+      <vertex tilt="-25.4721" pan="155.055"/>
+    </polyhotspot>
+    <polyhotspot title="Junior High Gym &amp; Cafeteria Entry" description="" target="" url="" id="Poly09">
+      <vertex tilt="-19.8686" pan="179.646"/>
+      <vertex tilt="-20.5095" pan="-178.823"/>
+      <vertex tilt="-21.0837" pan="-179.065"/>
+      <vertex tilt="-21.5888" pan="-179.585"/>
+      <vertex tilt="-22.0162" pan="179.227"/>
+      <vertex tilt="-22.1086" pan="177.318"/>
+      <vertex tilt="-21.7461" pan="175.961"/>
+      <vertex tilt="-21.106" pan="174.7"/>
+    </polyhotspot>
+    <polyhotspot title="Junior High Office" description="" target="" url="" id="Poly10">
+      <vertex tilt="-20.7892" pan="-178.493"/>
+      <vertex tilt="-22.3852" pan="-177.443"/>
+      <vertex tilt="-22.8434" pan="-175.82"/>
+      <vertex tilt="-22.7103" pan="-174.451"/>
+      <vertex tilt="-22.1425" pan="-173.791"/>
+      <vertex tilt="-20.9463" pan="-173.413"/>
+      <vertex tilt="-21.6081" pan="-175.328"/>
+      <vertex tilt="-20.7062" pan="-177.871"/>
+    </polyhotspot>
+    <polyhotspot title="Auditorium" description="" target="" url="" id="Poly11">
+      <vertex tilt="-37.1994" pan="169.726"/>
+      <vertex tilt="-46.2327" pan="165.995"/>
+      <vertex tilt="-45.3913" pan="-178.175"/>
+      <vertex tilt="-47.1589" pan="-176.559"/>
+      <vertex tilt="-44.3192" pan="-166.214"/>
+      <vertex tilt="-40.413" pan="-158.161"/>
+      <vertex tilt="-38.2352" pan="-158.138"/>
+      <vertex tilt="-36.7038" pan="-154.594"/>
+      <vertex tilt="-34.8724" pan="-158.4"/>
+      <vertex tilt="-33.0339" pan="-162.699"/>
+      <vertex tilt="-33.4439" pan="-166.36"/>
+      <vertex tilt="-31.9507" pan="-168.667"/>
+      <vertex tilt="-32.6856" pan="-173.311"/>
+      <vertex tilt="-33.8115" pan="-178.42"/>
+      <vertex tilt="-35.2126" pan="176.536"/>
+    </polyhotspot>
+  </hotspots>
+  <media/>
+  <transition enabled="1" softedge="0" blendtime="1" zoomspeed="1.5" zoomout="3" zoomin="0" zoomoutpause="0" type="crossdissolve" zoomfov="50" blendcolor="0x000000"/>
+  <flyintransition enabled="1" speed="3.00"/>
+  <control dblclickfullscreen="1" lockedwheel="0" simulatemass="1" invertwheel="1" lockedmouse="0" hideabout="1" rubberband="0" lockedkeyboard="0" speedwheel="2" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="10" contextfullscreen="1" contextprojections="0">
+    <menulink url="www.prairieskycam.com" text="Prairie SkyCam"/>
+  </control>
+</panorama>
